@@ -1,0 +1,5 @@
+src/
+compile/
+.a.js
+.env
+tsconfig.json
